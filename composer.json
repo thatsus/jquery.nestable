@@ -1,9 +1,9 @@
 {
-    "name": "rjacobsen/jquery-nestable",
+    "name": "thatus/jquery-nestable",
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/rjacobsen2012/jquery.nestable"
+            "url": "https://github.com/thatus/jquery.nestable"
         }
     ]
 }
